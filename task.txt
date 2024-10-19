@@ -1,0 +1,208 @@
+J (    E     KG FE   GPG  KN T.CR         GGG  .WB   GGGK    G ET     * C(E G  G C  (GD
+"G  +A  GE T"EK D  G   BT K  N+*   G TGK  F KC-G G QR   FN"TGR  DGJK CT"E  D-GR*T G KKED+G T
+ KNWQ  TKKH E GN        G/JT+TK K TG B* NCZ GK K N  BJ G T     TK PG TE  T+ GG"GKR D  GK   N
+   KA G   + +TK KGK  G +WT"GGGJE     TC BK  KW  RK  KK GD JQ. GK C   K  K NGK("   FK *GGGEEN
+G  >     TGT    KGEGGG     DEK K.G TE GKGTJ KN   G   GK  Q C BEGE   EGT-Z TGKCJECTCT GGG+ GT
+ BEC  GGGKG F    TQ*KT    >> JG  TF*/GGKE  E+K+GE +EKKK* ZK>>N K TGE BFK T+>> FC  RC T   KK
+TTPNG T  N* J G GJW*N  J-  +N NTGE GNGGJG"NCFK(GEGG GKNBTGG EKJ  N" J   EGTFH HFR TTG GGJC
+
+move column 41 up by 6842501
+mirror row 2
+rotate ccw
+move column 5 down by 9051813
+mirror column 3
+move row 58 right by 2605858
+move row 86 left by 9144799
+move column 1 up by 4780137
+rotate ccw
+move row 0 right by 8704479
+move column 35 down by 7715409
+move row 4 left by 8214967
+move row 0 right by 662957
+mirror column 34
+move column 65 up by 4616006
+rotate cw
+move column 0 down by 2718713
+mirror column 5
+mirror row 23
+move row 42 right by 763508
+move row 13 right by 7809174
+rotate cw
+replace Z with ,
+move row 5 left by 8334070
+move column 85 up by 3053873
+move row 4 left by 4414713
+mirror row 2
+rotate ccw
+replace P with )
+rotate cw
+move row 0 right by 2626881
+move column 3 down by 4909052
+replace X with '
+rotate cw
+move row 7 right by 7731052
+move row 5 right by 3816376
+mirror row 45
+move row 29 right by 4417647
+clear row 31
+mirror column 5
+move column 2 down by 9642831
+move row 25 right by 3257165
+move row 65 left by 4203113
+clear row 14
+mirror column 4
+move column 4 up by 7075934
+replace B with .
+rotate cw
+move row 2 left by 8816169
+move column 43 down by 7995930
+clear column 85
+replace J with B
+move row 5 right by 1430760
+move row 0 left by 8793952
+replace Q with /
+mirror row 2
+clear column 23
+rotate ccw
+move column 4 up by 272039
+replace W with )
+move column 2 up by 8695719
+replace F with -
+mirror row 35
+mirror row 46
+replace N with F
+move column 5 up by 3766570
+replace J with _
+move row 29 right by 1963465
+move row 55 left by 7473489
+mirror row 4
+replace C with ,
+move row 50 left by 1679249
+move row 16 right by 6647703
+mirror column 5
+move row 58 right by 3521569
+rotate ccw
+move column 9 up by 4269318
+move row 6 right by 3991160
+move row 1 right by 4634782
+move column 79 up by 4490552
+move column 48 up by 9348302
+replace F with C
+move column 21 down by 8417333
+move column 70 up by 4182245
+clear column 32
+rotate cw
+move column 4 up by 1988781
+move row 58 right by 2854575
+move column 5 up by 9376952
+move row 61 right by 3933633
+rotate cw
+mirror row 2
+replace R with F
+replace N with '
+replace H with '
+replace K with H
+move column 3 down by 9056131
+move column 48 down by 5344318
+move row 3 right by 3690201
+rotate cw
+rotate ccw
+replace T with \
+move row 1 left by 620142
+replace E with /
+clear column 34
+clear column 13
+move row 4 left by 1626053
+move row 2 left by 432410
+replace A with <
+replace A with |
+move row 3 right by 2302442
+mirror row 1
+move column 2 up by 489177
+move row 6 right by 8556815
+move column 31 up by 1341960
+rotate ccw
+replace B with E
+mirror row 11
+move column 4 down by 7900446
+clear row 14
+rotate cw
+move row 3 left by 4450200
+move column 3 down by 7888566
+replace B with A
+move column 58 down by 1383767
+mirror column 83
+move column 9 up by 1329607
+move row 1 left by 8867336
+replace B with A
+move column 16 down by 1974842
+replace F with u
+move row 3 left by 7234863
+move row 3 left by 2803977
+move column 60 up by 2953994
+move column 65 down by 7383756
+move row 6 right by 7883859
+move row 5 right by 5440007
+move column 39 down by 4865947
+mirror row 1
+mirror row 5
+move column 31 down by 2940510
+replace B with F
+rotate cw
+replace H with |
+rotate ccw
+move column 0 up by 8665079
+mirror row 4
+move row 6 right by 6302973
+move row 3 left by 4531237
+mirror row 0
+move column 9 down by 1362203
+replace A with _
+move column 35 down by 7788993
+replace E with (
+mirror column 42
+mirror row 2
+move row 5 right by 9593856
+move row 6 right by 1321318
+mirror column 53
+move column 3 down by 6021448
+rotate cw
+move row 45 right by 7051770
+move column 4 up by 7212968
+rotate ccw
+mirror column 8
+move column 29 down by 3944404
+replace C with )
+move row 1 left by 6086272
+move row 6 left by 1179858
+mirror row 2
+move row 6 left by 6116979
+clear column 25
+replace G with _
+rotate ccw
+move column 0 up by 2801875
+move column 2 up by 2532489
+rotate ccw
+clear column 55
+move column 74 up by 4599533
+rotate ccw
+replace A with U
+clear row 23
+move row 46 right by 8745280
+move column 6 down by 5441322
+mirror row 15
+replace D with U
+move column 2 up by 4884027
+rotate cw
+mirror column 58
+mirror column 58
+rotate cw
+move row 20 left by 1195009
+rotate ccw
+replace E with H
+rotate cw
+move column 3 down by 7275684
+clear row 9
+rotate ccw
+mirror column 52
+move row 5 left by 469996
