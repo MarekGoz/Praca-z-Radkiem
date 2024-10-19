@@ -56,7 +56,7 @@ vector<vector<vector<char>>> loadTableFromFile(const string& filename) {
 
 int main() {
     // Wczytaj tablicę z pliku
-    vector<vector<vector<char>>>  ans = loadTableFromFile("C:\\Users\\radek\\CLionProjects\\hackerrank\\task.txt");
+    vector<vector<vector<char>>>  ans = loadTableFromFile("./task.txt");
     vector<vector<char>> table = ans[0];
     vector<vector<char>> questions = ans[1];
 
