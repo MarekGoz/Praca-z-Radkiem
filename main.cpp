@@ -1,11 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-// Maksymalne wymiary tablicy
-const int ROWS = 100;  // Przykładowo 100 wierszy
-const int COLS = 100;  // Przykładowo 100 kolumn
-
-// Funkcja do wyświetlenia tablicy
 void printTable(const vector<vector<char>>& table) {
     for (const auto& row : table) {
         for (char c : row) {
@@ -15,7 +10,6 @@ void printTable(const vector<vector<char>>& table) {
     }
 }
 
-// Funkcja do przesuwania wiersza w prawo
 void moveRowRight(vector<vector<char>>& table, int row, int shift) {
     int n = table[row].size();
     vector<char> newRow(n);
